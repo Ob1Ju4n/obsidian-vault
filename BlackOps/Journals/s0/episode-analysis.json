@@ -1,0 +1,92 @@
+{
+  "episode_analysis": {
+    "suggested_title": "Abducted in the Dark",
+    "one_sentence_summary": "Undercover journalist Alex attempts to gather evidence on a pharmaceutical corporation, only to be suspect, drugged, and abducted into a dark subterranean facility.",
+    "narrative_purpose": "Establishes the protagonist, her vow to expose the corporation, her sister's tragic backstory, and the inciting incident of her abduction.",
+    "episode_type": "Revelation"
+  },
+  "character_analysis": [
+    {
+      "name": "Alex",
+      "role": "Undercover Journalist",
+      "arc": "Exposed investigator turned helpless captive.",
+      "emotional_state": "Disoriented, rising panic, growing determination as memories piece back together.",
+      "memorable_moment": "Realizing the military VIP she was drinking with drugged her with chloroform in his car."
+    }
+  ],
+  "theme_analysis": [
+    {
+      "theme": "truth",
+      "significance": "primary",
+      "description": "Alex's core vow is to find and expose the truth of the corporation's shady deals."
+    },
+    {
+      "theme": "isolation",
+      "significance": "secondary",
+      "description": "Waking up locked in a dark room under alarms, completely cut off."
+    },
+    {
+      "theme": "survival",
+      "significance": "tertiary",
+      "description": "The immediate threat of confinement and starting a dangerous journey."
+    }
+  ],
+  "emotional_arc": {
+    "opening_emotion": "Disorientation",
+    "dominant_emotion": "Fear",
+    "climax_emotion": "Realization",
+    "closing_emotion": "Dread"
+  },
+  "visual_hooks": {
+    "literal": {
+      "description": "Alex waking up slowly under flickering alarms and dim lights in a small, damp detention cell.",
+      "why_memorable": "Establishes the vulnerability of the protagonist and the classic clinical containment start of survival horror."
+    },
+    "symbolic": {
+      "description": "A glass of bourbon sitting on a bar counter, with the reflection of a dark, looming figure in the backseat of a sedan.",
+      "symbolism": "The false sense of safety during the investigation leading to immediate betrayal and capture.",
+      "emotional_impact": "Evokes suspense and the sudden transition from investigator to prey."
+    }
+  },
+  "musical_hooks": {
+    "emotional_trajectory": "Begins with low disorienting hums, shifting to tense piano motifs during memory recollection, ending in sharp industrial hums of the alarms.",
+    "narrative_pacing": "Slow, atmospheric, tense.",
+    "genre_suggestions": [
+      "Dark Ambient",
+      "Minimalist Industrial Drone"
+    ],
+    "recurring_motifs_triggered": [
+      "dread_motif"
+    ]
+  },
+  "symbolism": [
+    {
+      "object": "Chloroform",
+      "meaning": "Loss of control and agency."
+    },
+    {
+      "object": "Sister's Experimental Treatment",
+      "meaning": "The dark human cost of the corporation's secrets."
+    }
+  ],
+  "cover_candidates": [
+    {
+      "concept_name": "Vanished Memories",
+      "visual_hook": "A blurred recollection of a bar glass of bourbon transitioning into a dark sedan's back door opening."
+    },
+    {
+      "concept_name": "The Confinement Cell",
+      "visual_hook": "Alex huddled on the floor of a damp concrete cell, illuminated only by a single red strobe light."
+    }
+  ],
+  "soundtrack_candidates": [
+    {
+      "track_name": "Flickering Alarm",
+      "description": "Low drone punctuated by rhythmic alarm beeps."
+    },
+    {
+      "track_name": "Bourbon & Chloroform",
+      "description": "Tense minimalist piano fading into distorted digital noise."
+    }
+  ]
+}
