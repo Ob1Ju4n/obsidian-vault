@@ -1,0 +1,1 @@
+- [[Tibor]] ha hecho un acuerdo con [[Najeźdźca|los barbaros]]: De llegar a derrocar a [[El Consejo de Timberwall|el consejo]] el sera quien administre la riqueza del enclave. A cambio, debe proveer tanta información como sea posible para que el ataque de los guerreros sea letal y efectivo. 

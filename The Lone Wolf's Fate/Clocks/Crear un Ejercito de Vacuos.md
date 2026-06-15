@@ -1,0 +1,1 @@
+- [[La Secta de la Liberación]] ha enviado a sus acolítos mas adeptos en busqueda de humanos que puedan servir como [[Vacuos]]

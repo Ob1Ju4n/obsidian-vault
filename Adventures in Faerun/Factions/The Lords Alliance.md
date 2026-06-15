@@ -1,0 +1,1 @@
+A group of political powers concerned with mutual security and prosperity.

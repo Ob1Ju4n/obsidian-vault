@@ -1,0 +1,80 @@
+{
+  "campaign": {
+    "title": "The Frostbound Wilds",
+    "genre": "Dark Fantasy Exploration",
+    "tone": [
+      "mysterious",
+      "melancholic",
+      "hopeful"
+    ],
+    "recurring_themes": [
+      "survival",
+      "forgotten civilizations",
+      "sacrifice",
+      "legacy"
+    ]
+  },
+  "factions": [
+    {
+      "name": "The White Clans",
+      "identity": "isolated survivors"
+    }
+  ],
+  "characters": [
+    {
+      "name": "Poppy",
+      "role": "scout",
+      "visual_identity": [
+        "small silhouette",
+        "fur cloak"
+      ]
+    }
+  ],
+  "locations": [
+    {
+      "name": "Palebank Village",
+      "identity": "last refuge against the cold"
+    }
+  ],
+  "musical_profile": {
+    "primary_genre": "Symphonic Melodic Death Power Metal",
+    "hero_motif": {
+      "instrumentation": [
+        "orchestral brass",
+        "galloping guitars"
+      ]
+    },
+    "mystery_motif": {
+      "instrumentation": [
+        "choir",
+        "low strings"
+      ]
+    },
+    "danger_motif": {
+      "instrumentation": [
+        "taiko drums",
+        "male choir"
+      ]
+    }
+  },
+  "visual_profile": {
+    "signature_motifs": [
+      "snow",
+      "ancient ruins",
+      "aurora",
+      "cold blue light"
+    ],
+    "preferred_cover_styles": [
+      "cinematic fantasy",
+      "dark RPG illustration"
+    ]
+  },
+  "campaign_statistics": {
+    "episodes_analyzed": 0,
+    "character_appearances": {},
+    "location_visits": {},
+    "theme_frequency": {},
+    "motif_frequency": {},
+    "emotion_frequency": {}
+  }
+}
