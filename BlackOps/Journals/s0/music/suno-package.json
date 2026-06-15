@@ -1,0 +1,47 @@
+{
+  "recommended_direction": {
+    "primary_genre": "Ambient Industrial Horror",
+    "secondary_genre": "Dark Synthwave",
+    "energy_curve": "Starts slow, cold, and spacious with low-frequency drones, building slowly into an anxious, rhythmic analog heartbeat pulse before dissolving into industrial static.",
+    "emotional_arc": "From disoriented numbness, through growing tension, peaking in sharp paranoia, and ending in cold, heavy dread.",
+    "narrative_momentum": "Matches the realization of captivity and recollection of memory, building tension steadily without resolution."
+  },
+  "suno_style_prompt": "[Intro]\n(Low analog synth drone, cold sub-bass hum, distant ticking metallic pulse, spacious, clinical)\n\n[Verse 1]\n(Slow atmospheric progression, single piano notes dripping in reverb, rhythmic breathing sound effects, tense and quiet)\n\n[Pre-Chorus]\n(Sub-bass swells, mechanical clicking speeds up, high-pitched ringing synth representing panic, rising tension)\n\n[Chorus]\n(Heavy distorted analog synth bassline, slow thumping industrial electronic heartbeat, cold metallic percussion hits, dark synthwave pulse, oppressive, cinematic)\n\n[Bridge]\n(Drums cut out, whispering atmospheric noise, detuned synthesizer melody, feeling of sensory deprivation, fading memories)\n\n[Final Chorus]\n(Full drum pattern returns, aggressive industrial bassline, pulsing synths building to peak anxiety, screeching electronic feedback, no release)\n\n[Outro]\n(Beat stops abruptly, leaving only the low cold sub-bass hum and the rhythmic beep of a distant alarm, fading into static silence)",
+  "song_concept": {
+    "suggested_title": "Drugged and Confined",
+    "perspective": "First-person narrative focusing on Alex's sensory experience of waking up and piecing together the abduction.",
+    "core_themes": [
+      "Vulnerability",
+      "Betrayal",
+      "Captivity"
+    ],
+    "core_imagery": [
+      "Bourbon glinting under bar lights",
+      "A dark car door closing",
+      "Flickering clinical red alarms",
+      "Cold, damp concrete walls closing in"
+    ],
+    "chorus_concept": "The steady, inescapable pulse of a cell block alarm mirroring a rising heartbeat, representing the transition from investigator to captive."
+  },
+  "alternative_directions": [
+    {
+      "genre": "Retro 90s Survival Horror Save Room (Ambient)",
+      "instrumentation": [
+        "Slow melancholic electric piano",
+        "Soft warm synthesizer pads",
+        "Subtle vinyl crackle"
+      ],
+      "mood": "Bitter-sweet comfort, safety overshadowed by lingering threat, melancholic peace."
+    },
+    {
+      "genre": "Orchestral Cyber-Thriller",
+      "instrumentation": [
+        "Low staccato strings",
+        "Tense violin glissandos",
+        "Industrial drum loops",
+        "Distorted brass hits"
+      ],
+      "mood": "Active chase, cinematic adrenaline, conspiracy horror."
+    }
+  ]
+}
