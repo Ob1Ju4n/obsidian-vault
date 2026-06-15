@@ -31,7 +31,8 @@
         "Soft warm synthesizer pads",
         "Subtle vinyl crackle"
       ],
-      "mood": "Bitter-sweet comfort, safety overshadowed by lingering threat, melancholic peace."
+      "mood": "Bitter-sweet comfort, safety overshadowed by lingering threat, melancholic peace.",
+      "suno_style_prompt": "[Intro]\n(Soft vinyl crackle, gentle detuned electric piano chord, warm synth pad fade-in)\n\n[Verse]\n(Slow, melancholic Rhodes piano melody, quiet acoustic bass notes, spacious and comforting but slightly eerie)\n\n[Chorus]\n(Warm acoustic guitar arpeggios layering the electric piano, swelling lush synth pad, bittersweet feeling of temporary safety)\n\n[Bridge]\n(Reverb-heavy single electric piano notes, soft chime accents, drums absent, reflective and quiet)\n\n[Outro]\n(Rhodes melody fades, vinyl crackle and warm synth pad hum lingering into silence)"
     },
     {
       "genre": "Orchestral Cyber-Thriller",
@@ -41,7 +42,8 @@
         "Industrial drum loops",
         "Distorted brass hits"
       ],
-      "mood": "Active chase, cinematic adrenaline, conspiracy horror."
+      "mood": "Active chase, cinematic adrenaline, conspiracy horror.",
+      "suno_style_prompt": "[Intro]\n(Rapid staccato cello notes, ticking high-hat loop, sudden distorted synth bass drop, cinematic rise)\n\n[Verse 1]\n(Tense violin glissandos, slow heavy electronic kick drum, rhythmic ticking, whispers of paranoia)\n\n[Pre-Chorus]\n(Rising brass swells, accelerated staccato strings, build-up of industrial percussion, intense adrenaline)\n\n[Chorus]\n(Full symphonic sweep with pounding industrial loop, roaring low-frequency brass sirens, frantic detuned synth hook, high energy cyber-conspiracy theme)\n\n[Bridge]\n(Sudden drop into ticking clock effect, solo tremolo violin, low sub-bass drone, breathing sounds, high tension)\n\n[Final Chorus]\n(Maximum volume orchestrations, cinematic drum hits, aggressive distorted synthesizer pulse layered with full strings and brass)\n\n[Outro]\n(Frantic rise cuts off into a single, echoey metallic hit and low string hum)"
     }
   ]
 }
