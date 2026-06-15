@@ -1,7 +1,93 @@
 {
-  "characters": {},
-  "locations": {},
-  "factions": {},
-  "timeline": {},
+  "characters": {
+    "Alex": {
+      "name": "Alex",
+      "role": "Undercover Journalist",
+      "status": "Alive",
+      "first_appearance": "Session 0",
+      "last_appearance": "Session 1",
+      "possessions": [
+        "Key chain with 3 small bronze keys",
+        "White access card",
+        "Black tactical vest",
+        "9mm ammunition box"
+      ],
+      "relationships": {
+        "sister": "Deceased (died in a research facility during experimental treatment under obscure circumstances)",
+        "dad": "Taught her range shooting in the south",
+        "editor": "Close coworker / professional bond"
+      }
+    }
+  },
+  "npcs": {
+    "military_vip": {
+      "name": "Government/Military Official (Name Unknown)",
+      "description": "A civilian military official Alex met at a bar to gather information. He noticed her interest in the corporation, drugged her with chloroform, and had her abducted.",
+      "status": "Unknown",
+      "importance": "Kidnapper / Inciting Incident contact"
+    },
+    "screaming_man_on_radio": {
+      "name": "Screaming Man on Radio",
+      "description": "An unidentified man heard screaming for help over the security checkpoint radio alongside gunshots and guttural growls before going silent.",
+      "status": "Presumed Deceased",
+      "importance": "Confirms active physical threats in the facility"
+    }
+  },
+  "locations": {
+    "detention_room": {
+      "name": "Detention Room",
+      "description": "A dark, damp containment cell where Alex was locked up after being abducted.",
+      "status": "Explored / Escaped"
+    },
+    "security_checkpoint_room": {
+      "name": "Security Checkpoint Room",
+      "description": "A 15x15ft industrial room with a central poker table, an open black metallic cabinet, and a desk with a radio communication device.",
+      "status": "Explored"
+    },
+    "watery_tunnels": {
+      "name": "The Watery Tunnels",
+      "description": "A damp, subterranean network carved directly into wet stone, smelling of salt and decay, and illuminated by ceiling-mounted yellow light bulbs. Contains a fork with tire tracks going both ways.",
+      "status": "Currently Exploring (Wrong Way / Heading Deeper)"
+    }
+  },
+  "factions": {
+    "pharma_corp": {
+      "name": "Big Pharma Corporation (Name Unknown)",
+      "goals": "Unethical research on humans, biological development, and high-level government/military cover-up.",
+      "relationships": "Target of Alex's journalistic investigation."
+    }
+  },
+  "timeline": [
+    {
+      "event": "Sister's illness and death",
+      "description": "Alex's sister dies in a research center under experimental treatment. Alex never saw the body, leading to obscure circumstances.",
+      "time": "Pre-Campaign Backstory"
+    },
+    {
+      "event": "Undercover meeting and abduction",
+      "description": "Alex meets with a military government official at a bar to extract information on the corporation. The official suspects her, drugs her, and abducts her.",
+      "time": "Night Before Session 0"
+    },
+    {
+      "event": "Waking up in confinement",
+      "description": "Alex wakes up in a dark, damp room under alarms and flickering lights, slowly remembering the abduction.",
+      "time": "Session 0"
+    },
+    {
+      "event": "Security checkpoint search",
+      "description": "Alex escapes the cell, searches the security checkpoint room, gathers keys and an access card, and unlocks a black cabinet containing a tactical vest and ammunition.",
+      "time": "Session 1"
+    },
+    {
+      "event": "The radio transmission",
+      "description": "Alex tunes the radio device and hears a screaming man crying for help amid gunshots and guttural growls before static cuts off.",
+      "time": "Session 1"
+    },
+    {
+      "event": "Entering the tunnels",
+      "description": "Alex enters the damp, muddy watery tunnels, reaches a fork with tire tracks, and chooses a path heading deeper into the facility, unaware she is heading away from the exit.",
+      "time": "Session 1"
+    }
+  ],
   "artifacts": {}
 }

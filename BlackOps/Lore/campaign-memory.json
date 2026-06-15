@@ -1,80 +1,128 @@
 {
   "campaign": {
-    "title": "The Frostbound Wilds",
-    "genre": "Dark Fantasy Exploration",
+    "title": "Outbreak",
+    "genre": "Survival Horror",
     "tone": [
       "mysterious",
       "melancholic",
-      "hopeful"
+      "oppressive",
+      "claustrophobic"
     ],
     "recurring_themes": [
-      "survival",
-      "forgotten civilizations",
-      "sacrifice",
-      "legacy"
+      {
+        "theme": "survival",
+        "confidence": 0.95,
+        "evidence_count": 2
+      },
+      {
+        "theme": "isolation",
+        "confidence": 0.90,
+        "evidence_count": 2
+      },
+      {
+        "theme": "unethical experimentation",
+        "confidence": 0.85,
+        "evidence_count": 2
+      },
+      {
+        "theme": "search for truth",
+        "confidence": 0.80,
+        "evidence_count": 2
+      }
     ]
   },
   "factions": [
     {
-      "name": "The White Clans",
-      "identity": "isolated survivors"
+      "name": "Big Pharma Corporation (Name Unknown)",
+      "identity": "secretive corporate entity conducting unethical biological research on humans"
     }
   ],
   "characters": [
     {
-      "name": "Poppy",
-      "role": "scout",
+      "name": "Alex",
+      "role": "undercover journalist",
       "visual_identity": [
-        "small silhouette",
-        "fur cloak"
+        "sweat-streaked face",
+        "oversized black tactical vest",
+        "clutching keychain with small bronze keys and access card"
       ]
     }
   ],
   "locations": [
     {
-      "name": "Palebank Village",
-      "identity": "last refuge against the cold"
+      "name": "Subterranean Research/Storage Facility",
+      "identity": "cluttered, abandoned underground complex built into a sea cave system"
     }
   ],
   "musical_profile": {
-    "primary_genre": "Symphonic Melodic Death Power Metal",
-    "hero_motif": {
+    "primary_genre": "Ambient Industrial Horror / Dark Synth",
+    "dread_motif": {
       "instrumentation": [
-        "orchestral brass",
-        "galloping guitars"
+        "distorted drones",
+        "low industrial bass",
+        "flickering static noises"
       ]
     },
-    "mystery_motif": {
+    "investigation_motif": {
       "instrumentation": [
-        "choir",
-        "low strings"
+        "minimalist piano",
+        "tense analog synth pads"
       ]
     },
     "danger_motif": {
       "instrumentation": [
-        "taiko drums",
-        "male choir"
+        "metallic industrial percussion",
+        "distorted brass sirens",
+        "pounding heartbeat rhythms"
       ]
     }
   },
   "visual_profile": {
     "signature_motifs": [
-      "snow",
-      "ancient ruins",
-      "aurora",
-      "cold blue light"
+      "static",
+      "strobe lights",
+      "subterranean mud",
+      "industrial decay",
+      "shadows",
+      "sickly yellow light bulbs"
     ],
     "preferred_cover_styles": [
-      "cinematic fantasy",
-      "dark RPG illustration"
+      "cinematic survival horror art",
+      "grit-heavy TTRPG realism",
+      "minimalist graphic symbolism",
+      "surreal mythic dreamscape"
     ]
   },
   "campaign_statistics": {
-    "episodes_analyzed": 0,
-    "character_appearances": {},
-    "location_visits": {},
-    "theme_frequency": {},
-    "motif_frequency": {},
-    "emotion_frequency": {}
+    "episodes_analyzed": 2,
+    "character_appearances": {
+      "Alex": 2
+    },
+    "location_visits": {
+      "Detention Room": 1,
+      "Security Checkpoint Room": 1,
+      "The Watery Tunnels": 1
+    },
+    "theme_frequency": {
+      "survival": 2,
+      "isolation": 2,
+      "unethical experimentation": 2,
+      "search for truth": 2
+    },
+    "motif_frequency": {
+      "static": 1,
+      "strobe lights": 1,
+      "subterranean mud": 1,
+      "industrial decay": 1,
+      "shadows": 1,
+      "sickly yellow light bulbs": 1,
+      "tactical vest": 1
+    },
+    "emotion_frequency": {
+      "dread": 2,
+      "isolation": 2,
+      "paranoia": 1,
+      "claustrophobia": 1
+    }
   }
 }
